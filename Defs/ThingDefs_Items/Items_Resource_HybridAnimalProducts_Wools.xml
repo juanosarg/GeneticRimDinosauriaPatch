@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+
+	<ThingDef ParentName="WoolBase">
+		<defName>GR_EldritchWool</defName>
+		<label>eldritch wool</label>
+		<description>This purple wool seems to be irrigated by pulsing, throbbing purple veins. However, they can only be detected by sight, not by touch.</description>
+		<graphicData>
+			<texPath>Things/Item/GR_EldritchWool</texPath>
+		</graphicData>
+		<stuffProps>
+			<color>(120,89,145)</color>
+			
+			<statFactors>
+				<ArmorRating_Sharp>1.65</ArmorRating_Sharp>
+				<ArmorRating_Blunt>1.5</ArmorRating_Blunt>
+				<ArmorRating_Heat>1.7</ArmorRating_Heat>
+				<ArmorRating_Electric>4.0</ArmorRating_Electric>
+				<Insulation_Cold>1.1</Insulation_Cold>
+				<Insulation_Heat>1.1</Insulation_Heat>
+			</statFactors>
+		</stuffProps>
+	</ThingDef>
+	
+	        
+	
+ 
+  
+
+</Defs>
