@@ -21,15 +21,39 @@
 				<filter>
 
 					<thingDefs>
-						<li>ROM_DarkYoung_Corpse</li>
-						<li>ROM_Chthonian_Corpse</li>
-						<li>ROM_DeepOne_Corpse</li>
-						<li>ROM_DeepOneGreat_Corpse</li>
-						<li>ROM_ChthonianLarva_Corpse</li>
-						<li>ROM_MiGo_Corpse</li>
-						<li>ROM_Shoggoth_Corpse</li>
-						<li>ROM_Cthulhid_Corpse</li>
-						<li>ROM_StarVampire_Corpse</li>
+						<li>TyrannosaurusRex_Corpse</li>
+						<li>Yutyrannus_Corpse</li>
+						<li>Carnotaurus_Corpse</li>
+						<li>Allosaurus_Corpse</li>
+						<li>Spinosaurus_Corpse</li>
+						<li>Baryonyx_Corpse</li>
+						<li>Ankylosaurus_Corpse</li>
+						<li>Minmi_Corpse</li>
+						<li>Brachiosaurus_Corpse</li>						
+						<li>Brontosaurus_Corpse</li>
+						<li>Diplodocus_Corpse</li>
+						<li>Magyarosaurus_Corpse</li>
+						<li>Utahraptor_Corpse</li>
+						<li>Dakotaraptor_Corpse</li>
+						<li>Dilophosaurus_Corpse</li>
+						<li>Velociraptor_Corpse</li>
+						<li>Compsognathus_Corpse</li>
+						<li>Gallimimus_Corpse</li>						
+						<li>Gigantoraptor_Corpse</li>
+						<li>Iguanodon_Corpse</li>
+						<li>Parasaur_Corpse</li>
+						<li>Corythosaurus_Corpse</li>
+						<li>Deinocheirus_Corpse</li>
+						<li>Therizinosaurus_Corpse</li>
+						<li>Pachycephalosaurus_Corpse</li>
+						<li>Stygimoloch_Corpse</li>
+						<li>Dryosaurus_Corpse</li>						
+						<li>Stegosaurus_Corpse</li>
+						<li>Triceratops_Corpse</li>
+						<li>Protoceratops_Corpse</li>
+						<li>Quetzalcoatlus_Corpse</li>
+						<li>Pteranodon_Corpse</li>
+
 					</thingDefs>
 				</filter>
 				<count>1</count>
@@ -38,19 +62,42 @@
 		<fixedIngredientFilter>
 
 			<thingDefs>
-				<li>ROM_DarkYoung_Corpse</li>
-				<li>ROM_Chthonian_Corpse</li>
-				<li>ROM_DeepOne_Corpse</li>
-				<li>ROM_DeepOneGreat_Corpse</li>
-				<li>ROM_ChthonianLarva_Corpse</li>
-				<li>ROM_MiGo_Corpse</li>
-				<li>ROM_Shoggoth_Corpse</li>
-				<li>ROM_Cthulhid_Corpse</li>
-				<li>ROM_StarVampire_Corpse</li>
+				<li>TyrannosaurusRex_Corpse</li>
+						<li>Yutyrannus_Corpse</li>
+						<li>Carnotaurus_Corpse</li>
+						<li>Allosaurus_Corpse</li>
+						<li>Spinosaurus_Corpse</li>
+						<li>Baryonyx_Corpse</li>
+						<li>Ankylosaurus_Corpse</li>
+						<li>Minmi_Corpse</li>
+						<li>Brachiosaurus_Corpse</li>						
+						<li>Brontosaurus_Corpse</li>
+						<li>Diplodocus_Corpse</li>
+						<li>Magyarosaurus_Corpse</li>
+						<li>Utahraptor_Corpse</li>
+						<li>Dakotaraptor_Corpse</li>
+						<li>Dilophosaurus_Corpse</li>
+						<li>Velociraptor_Corpse</li>
+						<li>Compsognathus_Corpse</li>
+						<li>Gallimimus_Corpse</li>						
+						<li>Gigantoraptor_Corpse</li>
+						<li>Iguanodon_Corpse</li>
+						<li>Parasaur_Corpse</li>
+						<li>Corythosaurus_Corpse</li>
+						<li>Deinocheirus_Corpse</li>
+						<li>Therizinosaurus_Corpse</li>
+						<li>Pachycephalosaurus_Corpse</li>
+						<li>Stygimoloch_Corpse</li>
+						<li>Dryosaurus_Corpse</li>						
+						<li>Stegosaurus_Corpse</li>
+						<li>Triceratops_Corpse</li>
+						<li>Protoceratops_Corpse</li>
+						<li>Quetzalcoatlus_Corpse</li>
+						<li>Pteranodon_Corpse</li>
 			</thingDefs>
 		</fixedIngredientFilter>
 		<products>
-			<GR_EldritchGenetic>1</GR_EldritchGenetic>
+			<GR_DinoGenetic>1</GR_DinoGenetic>
 		</products>
 		<skillRequirements>
 			<Intellectual>8</Intellectual>

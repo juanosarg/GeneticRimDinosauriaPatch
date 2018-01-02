@@ -6,14 +6,14 @@
 
   
 <ThingDef ParentName="BuildingBase">
-    <defName>GR_EldritchGenePod</defName>
-    <label>eldritch genePod</label>
+    <defName>GR_ArcheoGenePod</defName>
+    <label>archeo genePod</label>
     <thingClass>Building_WorkTable</thingClass>
-    <description>Eldritch genetic material samples are combined and grown in this laboratory, a perfect mixture of arcane eldritch magics and technology.</description>
+    <description>Dinosaur genetic material samples are combined and grown in this laboratory.</description>
     <graphicData>
-      <texPath>Things/Building/GR_EldritchGenePod</texPath>
+      <texPath>Things/Building/GR_ArcheoGenePod</texPath>
       <graphicClass>Graphic_Single</graphicClass>
-      <drawSize>(4,4)</drawSize>
+      <drawSize>(2,4)</drawSize>
      
     </graphicData>
     <castEdgeShadows>false</castEdgeShadows>
@@ -29,7 +29,7 @@
       <MaxHitPoints>180</MaxHitPoints>
       <Flammability>1.0</Flammability>
     </statBases>
-    <size>(4,4)</size>
+    <size>(2,4)</size>
     <passability>PassThroughOnly</passability>
     <pathCost>70</pathCost>
     <hasInteractionCell>True</hasInteractionCell>
@@ -55,7 +55,7 @@
         </linkableFacilities>
       </li>
     </comps>
-    <researchPrerequisites><li>GR_EldritchGeneticEngineering</li></researchPrerequisites>
+    <researchPrerequisites><li>GR_ArcheoGeneticEngineering</li></researchPrerequisites>
 		<designationCategory>GR_GeneticsTab</designationCategory>
 
 </ThingDef>

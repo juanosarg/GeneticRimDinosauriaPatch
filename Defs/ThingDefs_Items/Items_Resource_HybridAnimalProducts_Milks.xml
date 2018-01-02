@@ -4,41 +4,38 @@
 
   
   	<ThingDef ParentName="ResourceBase">
-    <defName>GR_EldritchMilk</defName>
-    <label>eldritch milk</label>
-    <description>This milk is purple coloured, and its smell is indescribable. It whispers to you...</description>
-    <graphicData>
-      <texPath>Things/Item/GR_EldritchMilk</texPath>
-      <graphicClass>Graphic_Single</graphicClass>
-    </graphicData>
-    <soundInteract>Standard_Drop</soundInteract>
-    <soundDrop>Standard_Drop</soundDrop>
+    <defName>GR_DinoMilk</defName>
+    <label>dino "milk"</label>
+    <description>Triceramuffalos produce a secretion from various parts of their upper digestive tract. The resulting "milk" is fed to their offspring via regurgitation, and is similar to what mammals produce; it contains similar levels of fat and protein, along with carotenoids and antibodies. Now, why would anyone want to drink this? 'Cause it's the Rim, baby!</description>
+		<graphicData>
+			<texPath>Things/Item/GR_DinoMilk</texPath>
+			      <graphicClass>Graphic_Single</graphicClass>
+
+		</graphicData>
 		<socialPropernessMatters>true</socialPropernessMatters>
-    <statBases>
-      <MaxHitPoints>40</MaxHitPoints>
-      <MarketValue>1</MarketValue>
-      <Mass>0.075</Mass>
-      <Flammability>1.0</Flammability>
-      <DeteriorationRate>8</DeteriorationRate>
-    </statBases>
-    <thingCategories>
-      <li>ROM_StrangeMeatRaw</li>
-    </thingCategories>
-    <ingestible>
-      <preferability>DesperateOnly</preferability>
-      <foodType>Processed</foodType>
-      <nutrition>0.05</nutrition>
-	  <joy>0.06</joy>
-	  <joyKind>Gluttonous</joyKind>
-      <maxNumToIngestAtOnce>4</maxNumToIngestAtOnce>
-      <ingestSound>Meal_Eat</ingestSound>
-		<outcomeDoers>
-			<li Class="IngestionOutcomeDoer_GiveHediff">
-			  <hediffDef>ROM_SanityLoss</hediffDef>
-			  <severity>0.25</severity>
+		<statBases>
+			<MarketValue>3.1</MarketValue>
+			<Mass>0.045</Mass>
+			<MaxHitPoints>60</MaxHitPoints>
+		</statBases>
+		<tradeability>Sellable</tradeability>
+		<comps>
+			<li Class="CompProperties_FoodPoisoningChance">
+				<humanlikeOnly>true</humanlikeOnly>
 			</li>
-		</outcomeDoers>	
-    </ingestible>
-  </ThingDef>
+			<li Class="CompProperties_Rottable">
+				<daysToRotStart>40</daysToRotStart>
+				<rotDestroys>true</rotDestroys>
+			</li>
+		</comps>
+		<ingestible>
+			<preferability>RawBad</preferability>
+			<foodType>AnimalProduct, Fluid</foodType>
+			<nutrition>0.07</nutrition>
+		</ingestible>
+		<thingCategories>
+			<li>AnimalProductRaw</li>
+		</thingCategories>
+	</ThingDef>
 
 </Defs>
