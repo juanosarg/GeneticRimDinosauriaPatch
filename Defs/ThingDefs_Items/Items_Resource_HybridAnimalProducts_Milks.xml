@@ -23,10 +23,7 @@
 			<li Class="CompProperties_FoodPoisoningChance">
 				<humanlikeOnly>true</humanlikeOnly>
 			</li>
-			<li Class="CompProperties_Rottable">
-				<daysToRotStart>40</daysToRotStart>
-				<rotDestroys>true</rotDestroys>
-			</li>
+			
 		</comps>
 		<ingestible>
 			<preferability>RawBad</preferability>
