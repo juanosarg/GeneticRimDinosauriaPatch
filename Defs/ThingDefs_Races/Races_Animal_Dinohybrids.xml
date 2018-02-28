@@ -23,7 +23,7 @@
 				<capacities>
 					<li>Blunt</li>
 				</capacities>
-				<power>18</power>
+				<power>17</power>
 				<cooldownTime>1.6</cooldownTime>
 				<linkedBodyPartsGroup>LeftLeg</linkedBodyPartsGroup>
 				<surpriseAttack>
@@ -40,7 +40,7 @@
 				<capacities>
 					<li>Blunt</li>
 				</capacities>
-				<power>18</power>
+				<power>17</power>
 				<cooldownTime>1.6</cooldownTime>
 				<linkedBodyPartsGroup>RightLeg</linkedBodyPartsGroup>
 				<surpriseAttack>
@@ -57,7 +57,7 @@
 				<capacities>
 					<li>Bite</li>
 				</capacities>
-				<power>32</power>
+				<power>26</power>
 				<cooldownTime>1.85</cooldownTime>
 				<linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
 			</li>
@@ -252,7 +252,7 @@
 
 			<deathActionWorkerClass>ExplosionTypes.DeathActionWorker_BiggerExplosion</deathActionWorkerClass>
 			<executionRange>6</executionRange>
-			<herdAnimal>true</herdAnimal>
+			<herdAnimal>false</herdAnimal>
 			<predator>false</predator>
 			<body>BipedalOther</body>
 			<baseHungerRate>1.8</baseHungerRate>
@@ -421,7 +421,7 @@
 		<race>
 	  <thinkTreeMain>GR_DraftableAnimal</thinkTreeMain>
 
-			<herdAnimal>true</herdAnimal>
+			<herdAnimal>false</herdAnimal>
 			<predator>true</predator>
 			<body>TheropodWithClaws</body>
 			<baseHungerRate>0.55</baseHungerRate>
@@ -604,7 +604,7 @@
 		<race>
 	  <thinkTreeMain>GR_DraftableAnimal</thinkTreeMain>
 
-			<herdAnimal>true</herdAnimal>
+			<herdAnimal>false</herdAnimal>
 			<predator>false</predator>
 			<body>Sauropod</body>
 			<baseHungerRate>1.8</baseHungerRate>
@@ -778,7 +778,7 @@
 		<race>
 	  <thinkTreeMain>GR_DraftableAnimal</thinkTreeMain>
 
-			<herdAnimal>true</herdAnimal>
+			<herdAnimal>false</herdAnimal>
 		<predator>false</predator>
       <body>Ceratopsid</body>
       <baseHungerRate>1.8</baseHungerRate>
@@ -786,7 +786,7 @@
       <baseHealthScale>5.5</baseHealthScale>
       <foodType>VegetarianRoughAnimal</foodType>
       <gestationPeriodDays>40</gestationPeriodDays>
-      <packAnimal>true</packAnimal>
+      <packAnimal>false</packAnimal>
       <wildness>0.70</wildness>
       <lifeExpectancy>75</lifeExpectancy>
       <trainableIntelligence>Advanced</trainableIntelligence>
@@ -958,7 +958,7 @@
 		<race>
 	  <thinkTreeMain>GR_DraftableAnimal</thinkTreeMain>
 
-		      <herdAnimal>true</herdAnimal>
+		      <herdAnimal>false</herdAnimal>
       <predator>true</predator>
       <body>TheropodWithClaws</body>
       <baseHungerRate>0.55</baseHungerRate>
@@ -1125,7 +1125,7 @@
 		<race>
 	  <thinkTreeMain>GR_DraftableAnimal</thinkTreeMain>
 
-	<herdAnimal>true</herdAnimal>
+	<herdAnimal>false</herdAnimal>
       <predator>false</predator>
       <body>ThyreophoraeWithSpikes</body>
       <baseHungerRate>1.8</baseHungerRate>
@@ -1302,7 +1302,7 @@
 		<race>
 	  <thinkTreeMain>GR_DraftableAnimal</thinkTreeMain>
 
-	<herdAnimal>true</herdAnimal>
+	<herdAnimal>false</herdAnimal>
       <predator>true</predator>
       <body>TheropodWithClaws</body>
       <baseHungerRate>0.55</baseHungerRate>
