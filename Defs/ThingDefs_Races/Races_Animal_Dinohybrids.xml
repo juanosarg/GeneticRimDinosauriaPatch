@@ -786,7 +786,7 @@
       <baseHealthScale>5.5</baseHealthScale>
       <foodType>VegetarianRoughAnimal</foodType>
       <gestationPeriodDays>40</gestationPeriodDays>
-      <packAnimal>false</packAnimal>
+      <packAnimal>true</packAnimal>
       <wildness>0.70</wildness>
       <lifeExpectancy>75</lifeExpectancy>
       <trainableIntelligence>Advanced</trainableIntelligence>
