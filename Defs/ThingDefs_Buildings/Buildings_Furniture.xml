@@ -31,7 +31,7 @@
 			<Cleanliness>0.6</Cleanliness>
     </statBases>
 
-			<minifiedDef>MinifiedFurniture</minifiedDef>
+			<minifiedDef>MinifiedThing</minifiedDef>
 		<rotatable>true</rotatable>
 <building>    
 			<isEdifice>false</isEdifice>

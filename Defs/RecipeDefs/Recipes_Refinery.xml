@@ -11,7 +11,7 @@
 		<soundWorking>Recipe_Cremate</soundWorking>
 		<workAmount>200</workAmount>
 		<recipeUsers>
-				<li>Refinery</li>	  
+				<li>BiofuelRefinery</li>	  
 		</recipeUsers>	
 		<workSkill>Intellectual</workSkill>
 		<allowMixingIngredients>true</allowMixingIngredients>

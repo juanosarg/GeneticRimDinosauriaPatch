@@ -7,26 +7,26 @@
 		<defName>GR_DinoFeatherWool</defName>
 		<label>dino featherwool</label>
 		<description>This seems to be an amalgamation of feathers and wool, perfectly interweaved. Gives excellent defense against blunt attacks, and is quite warm.</description>
+
 		<graphicData>
 			<texPath>Things/Item/GR_DinoFeatherWool</texPath>
 			<graphicClass>Graphic_Single</graphicClass>		
 		</graphicData>
 		<tradeability>Sellable</tradeability>
+
+		<statBases>
+			<StuffPower_Armor_Blunt>0.20</StuffPower_Armor_Blunt>
+
+			<StuffPower_Insulation_Cold>32</StuffPower_Insulation_Cold>
+			<StuffPower_Insulation_Heat>14</StuffPower_Insulation_Heat>
+		</statBases>
 		<stuffProps>
-			<color>(131,78,47)</color>
-			<statOffsets>
-				<ArmorRating_Heat>0.15</ArmorRating_Heat>
-				<ArmorRating_Electric>0.15</ArmorRating_Electric>
-			</statOffsets>
-			<statFactors>
-				<ArmorRating_Blunt>1.9</ArmorRating_Blunt>
-				<ArmorRating_Heat>2</ArmorRating_Heat>
-				<Insulation_Cold>3</Insulation_Cold>
-				<Insulation_Heat>3</Insulation_Heat>
-			</statFactors>
+			<color>((131,78,47)</color>
 		</stuffProps>
+
+
 	</ThingDef>
-	
+
 	<ThingDef ParentName="WoolBase">
 		<defName>GR_ScalyWool</defName>
 		<label>dino scaly wool</label>
@@ -36,25 +36,22 @@
 			<graphicClass>Graphic_Single</graphicClass>		
 		</graphicData>
 		<tradeability>Sellable</tradeability>
+		<statBases>
+			<StuffPower_Armor_Sharp>0.40</StuffPower_Armor_Sharp>
+
+			<StuffPower_Insulation_Cold>30</StuffPower_Insulation_Cold>
+			<StuffPower_Insulation_Heat>16</StuffPower_Insulation_Heat>
+		</statBases>
 		<stuffProps>
 			<color>(152,162,169)</color>
-			<statOffsets>
-				<ArmorRating_Heat>0.15</ArmorRating_Heat>
-				<ArmorRating_Electric>0.15</ArmorRating_Electric>
-			</statOffsets>
-			<statFactors>
-				<ArmorRating_Sharp>1.9</ArmorRating_Sharp>
-				<ArmorRating_Heat>2</ArmorRating_Heat>
-				<Insulation_Cold>3</Insulation_Cold>
-				<Insulation_Heat>3</Insulation_Heat>
-			</statFactors>
+
 		</stuffProps>
 	</ThingDef>
-	
-	
-	        
-	
- 
-  
+
+
+
+
+
+
 
 </Defs>

@@ -19,7 +19,7 @@
     <castEdgeShadows>false</castEdgeShadows>
     <costList>
       <Steel>200</Steel>
-      <Component>4</Component>
+      <ComponentIndustrial>4</ComponentIndustrial>
     </costList>
     <altitudeLayer>Building</altitudeLayer>
     <fillPercent>0.5</fillPercent>
@@ -45,7 +45,7 @@
 	<comps>
       <li Class="CompProperties_Power">
         <compClass>CompPowerTrader</compClass>
-        <startElectricalFires>true</startElectricalFires>
+        <shortCircuitInRain>true</shortCircuitInRain>
         <basePowerConsumption>210</basePowerConsumption>
       </li>
       <li Class="CompProperties_Flickable"/>

@@ -95,7 +95,7 @@
 			<packAnimal>false</packAnimal>
 			<wildness>0.95</wildness>
 			<lifeExpectancy>40</lifeExpectancy>
-			<trainableIntelligence>Advanced</trainableIntelligence>
+			<trainability>Advanced</trainability>
 			<manhunterOnTameFailChance>0.2</manhunterOnTameFailChance>
 			<manhunterOnDamageChance>1</manhunterOnDamageChance>
 			<useLeatherFrom>Spinosaurus</useLeatherFrom>
@@ -136,7 +136,7 @@
 		<race>GR_Spinobear</race>
 		<combatPower>620</combatPower>
 		<canArriveManhunter>false</canArriveManhunter>
-		<wildSpawn_spawnWild>false</wildSpawn_spawnWild>
+		<ecoSystemWeight>1</ecoSystemWeight>
 
 
 		<lifeStages>
@@ -150,8 +150,8 @@
 					</shadowData>
 				</bodyGraphicData>
 				<dessicatedBodyGraphicData>
-					<texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedMedium</texPath>
-					<drawSize>1.4</drawSize>
+					<texPath>Things/Pawn/Animal/Dinosaur/Bear/GR_Dessicated_Spinobear</texPath>
+					<drawSize>3.6</drawSize>
 				</dessicatedBodyGraphicData>
 			</li>
 			<li>
@@ -164,8 +164,8 @@
 					</shadowData>
 				</bodyGraphicData>
 				<dessicatedBodyGraphicData>
-					<texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedMedium</texPath>
-					<drawSize>2</drawSize>
+					<texPath>Things/Pawn/Animal/Dinosaur/Bear/GR_Dessicated_Spinobear</texPath>
+					<drawSize>4.6</drawSize>
 				</dessicatedBodyGraphicData>
 			</li>
 			<li>
@@ -178,8 +178,8 @@
 					</shadowData>
 				</bodyGraphicData>
 				<dessicatedBodyGraphicData>
-					<texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedMedium</texPath>
-					<drawSize>2.7</drawSize>
+					<texPath>Things/Pawn/Animal/Dinosaur/Bear/GR_Dessicated_Spinobear</texPath>
+					<drawSize>5.2</drawSize>
 				</dessicatedBodyGraphicData>
 				<butcherBodyPart>
 					<bodyPartGroup>HeadAttackTool</bodyPartGroup>
@@ -263,7 +263,7 @@
 			<packAnimal>false</packAnimal>
 			<wildness>0.70</wildness>
 			<lifeExpectancy>55</lifeExpectancy>
-			<trainableIntelligence>Intermediate</trainableIntelligence>
+			<trainability>Intermediate</trainability>
 			<manhunterOnTameFailChance>0.05</manhunterOnTameFailChance>
 			<manhunterOnDamageChance>0.15</manhunterOnDamageChance>
 			<useLeatherFrom>Parasaur</useLeatherFrom>
@@ -304,7 +304,7 @@
 		<race>GR_Parasaurolope</race>
 		<combatPower>620</combatPower>
 		<canArriveManhunter>false</canArriveManhunter>
-		<wildSpawn_spawnWild>false</wildSpawn_spawnWild>
+		<ecoSystemWeight>1</ecoSystemWeight>
 
 
 		<lifeStages>
@@ -318,8 +318,8 @@
 					</shadowData>
 				</bodyGraphicData>
 				<dessicatedBodyGraphicData>
-					<texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedMedium</texPath>
-					<drawSize>1.4</drawSize>
+					<texPath>Things/Pawn/Animal/Dinosaur/Boomalope/GR_Dessicated_Parasaurolope</texPath>
+					<drawSize>2</drawSize>
 				</dessicatedBodyGraphicData>
 			</li>
 			<li>
@@ -332,8 +332,8 @@
 					</shadowData>
 				</bodyGraphicData>
 				<dessicatedBodyGraphicData>
-					<texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedMedium</texPath>
-					<drawSize>2</drawSize>
+					<texPath>Things/Pawn/Animal/Dinosaur/Boomalope/GR_Dessicated_Parasaurolope</texPath>
+					<drawSize>3.8</drawSize>
 				</dessicatedBodyGraphicData>
 			</li>
 			<li>
@@ -346,8 +346,8 @@
 					</shadowData>
 				</bodyGraphicData>
 				<dessicatedBodyGraphicData>
-					<texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedMedium</texPath>
-					<drawSize>2.7</drawSize>
+					<texPath>Things/Pawn/Animal/Dinosaur/Boomalope/GR_Dessicated_Parasaurolope</texPath>
+					<drawSize>4.6</drawSize>
 				</dessicatedBodyGraphicData>
 
 			</li>
@@ -432,7 +432,7 @@
 			<packAnimal>false</packAnimal>
 			<wildness>0.85</wildness>
 			<lifeExpectancy>12</lifeExpectancy>
-			<trainableIntelligence>Intermediate</trainableIntelligence>
+			<trainability>Intermediate</trainability>
 			<manhunterOnTameFailChance>0.1</manhunterOnTameFailChance>
 			<manhunterOnDamageChance>0.5</manhunterOnDamageChance>
 			<useLeatherFrom>Compsognathus</useLeatherFrom>
@@ -473,7 +473,7 @@
 		<race>GR_Chickennathus</race>
 		<combatPower>450</combatPower>
 		<canArriveManhunter>false</canArriveManhunter>
-		<wildSpawn_spawnWild>false</wildSpawn_spawnWild>
+		<ecoSystemWeight>1</ecoSystemWeight>
 
 
 		<lifeStages>
@@ -487,8 +487,8 @@
 					</shadowData>
 				</bodyGraphicData>
 				<dessicatedBodyGraphicData>
-					<texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedMedium</texPath>
-					<drawSize>1</drawSize>
+					<texPath>Things/Pawn/Animal/Dinosaur/Chicken/GR_Dessicated_Chickennathus</texPath>
+					<drawSize>1.5</drawSize>
 				</dessicatedBodyGraphicData>
 			</li>
 			<li>
@@ -501,8 +501,8 @@
 					</shadowData>
 				</bodyGraphicData>
 				<dessicatedBodyGraphicData>
-					<texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedMedium</texPath>
-					<drawSize>1.3</drawSize>
+					<texPath>Things/Pawn/Animal/Dinosaur/Chicken/GR_Dessicated_Chickennathus</texPath>
+					<drawSize>1.95</drawSize>
 				</dessicatedBodyGraphicData>
 			</li>
 			<li>
@@ -515,8 +515,8 @@
 					</shadowData>
 				</bodyGraphicData>
 				<dessicatedBodyGraphicData>
-					<texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedMedium</texPath>
-					<drawSize>1.8</drawSize>
+					<texPath>Things/Pawn/Animal/Dinosaur/Chicken/GR_Dessicated_Chickennathus</texPath>
+					<drawSize>2.6</drawSize>
 				</dessicatedBodyGraphicData>
 
 			</li>
@@ -557,7 +557,7 @@
 						</li>
 					</extraMeleeDamages>
 				</surpriseAttack>
-				<commonality>0.2</commonality>
+				<chanceFactor>0.2</chanceFactor>
 			</li>
 			<li>
 				<label>left leg</label>
@@ -615,7 +615,7 @@
 			<packAnimal>false</packAnimal>
 			<wildness>0.70</wildness>
 			<lifeExpectancy>175</lifeExpectancy>
-			<trainableIntelligence>Intermediate</trainableIntelligence>
+			<trainability>Intermediate</trainability>
 			<manhunterOnTameFailChance>0.05</manhunterOnTameFailChance>
 			<manhunterOnDamageChance>0.2</manhunterOnDamageChance>
 			<useLeatherFrom>Diplodocus</useLeatherFrom>
@@ -660,7 +660,7 @@
 		<race>GR_Diplobeetle</race>
 		<combatPower>325</combatPower>
 		<canArriveManhunter>false</canArriveManhunter>
-		<wildSpawn_spawnWild>false</wildSpawn_spawnWild>
+		<ecoSystemWeight>1</ecoSystemWeight>
 
 
 		<lifeStages>
@@ -674,8 +674,8 @@
 					</shadowData>
 				</bodyGraphicData>
 				<dessicatedBodyGraphicData>
-					<texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedMedium</texPath>
-					<drawSize>3.6</drawSize>
+					<texPath>Things/Pawn/Animal/Dinosaur/Insectoid/GR_Dessicated_Diplobeetle</texPath>
+					<drawSize>3.5</drawSize>
 				</dessicatedBodyGraphicData>
 			</li>
 			<li>
@@ -688,8 +688,8 @@
 					</shadowData>
 				</bodyGraphicData>
 				<dessicatedBodyGraphicData>
-					<texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedMedium</texPath>
-					<drawSize>5.5</drawSize>
+					<texPath>Things/Pawn/Animal/Dinosaur/Insectoid/GR_Dessicated_Diplobeetle</texPath>
+					<drawSize>4.2</drawSize>
 				</dessicatedBodyGraphicData>
 			</li>
 			<li>
@@ -702,8 +702,8 @@
 					</shadowData>
 				</bodyGraphicData>
 				<dessicatedBodyGraphicData>
-					<texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedMedium</texPath>
-					<drawSize>7</drawSize>
+					<texPath>Things/Pawn/Animal/Dinosaur/Insectoid/GR_Dessicated_Diplobeetle</texPath>
+					<drawSize>5.5</drawSize>
 				</dessicatedBodyGraphicData>
 
 			</li>
@@ -746,7 +746,7 @@
         <power>15</power>
         <cooldownTime>2.2</cooldownTime>
         <linkedBodyPartsGroup>HeadAttackTool</linkedBodyPartsGroup>
-		<commonality>0.2</commonality>
+		<chanceFactor>0.2</chanceFactor>
       </li>
     </tools>
 
@@ -789,7 +789,7 @@
       <packAnimal>true</packAnimal>
       <wildness>0.70</wildness>
       <lifeExpectancy>75</lifeExpectancy>
-      <trainableIntelligence>Advanced</trainableIntelligence>
+      <trainability>Advanced</trainability>
       <manhunterOnTameFailChance>0.05</manhunterOnTameFailChance>
       <manhunterOnDamageChance>0.35</manhunterOnDamageChance>
 			<useLeatherFrom>Triceratops</useLeatherFrom>
@@ -834,7 +834,7 @@
 		<race>GR_Triceraffalo</race>
 		<combatPower>325</combatPower>
 		<canArriveManhunter>false</canArriveManhunter>
-		<wildSpawn_spawnWild>false</wildSpawn_spawnWild>
+		<ecoSystemWeight>1</ecoSystemWeight>
 
 
 		<lifeStages>
@@ -848,8 +848,8 @@
 					</shadowData>
 				</bodyGraphicData>
 				<dessicatedBodyGraphicData>
-					<texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedMedium</texPath>
-					<drawSize>2.5</drawSize>
+					<texPath>Things/Pawn/Animal/Dinosaur/Muffalo/GR_Dessicated_Triceraffalo</texPath>
+					<drawSize>3</drawSize>
 				</dessicatedBodyGraphicData>
 			</li>
 			<li>
@@ -862,8 +862,8 @@
 					</shadowData>
 				</bodyGraphicData>
 				<dessicatedBodyGraphicData>
-					<texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedMedium</texPath>
-					<drawSize>3.5</drawSize>
+					<texPath>Things/Pawn/Animal/Dinosaur/Muffalo/GR_Dessicated_Triceraffalo</texPath>
+					<drawSize>4</drawSize>
 				</dessicatedBodyGraphicData>
 			</li>
 			<li>
@@ -876,8 +876,8 @@
 					</shadowData>
 				</bodyGraphicData>
 				<dessicatedBodyGraphicData>
-					<texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedMedium</texPath>
-					<drawSize>4</drawSize>
+					<texPath>Things/Pawn/Animal/Dinosaur/Muffalo/GR_Dessicated_Triceraffalo</texPath>
+					<drawSize>6</drawSize>
 				</dessicatedBodyGraphicData>
 				<butcherBodyPart>
 			  <bodyPartGroup>HornAttackTool</bodyPartGroup>
@@ -969,7 +969,7 @@
       <packAnimal>false</packAnimal>
       <wildness>0.95</wildness>
       <lifeExpectancy>35</lifeExpectancy>
-      <trainableIntelligence>Advanced</trainableIntelligence>
+      <trainability>Advanced</trainability>
       <manhunterOnTameFailChance>0.2</manhunterOnTameFailChance>
       <manhunterOnDamageChance>1</manhunterOnDamageChance>
 			<useLeatherFrom>Utahraptor</useLeatherFrom>
@@ -1014,7 +1014,7 @@
 		<race>GR_Raptortoise</race>
 		<combatPower>450</combatPower>
 		<canArriveManhunter>false</canArriveManhunter>
-		<wildSpawn_spawnWild>false</wildSpawn_spawnWild>
+		<ecoSystemWeight>1</ecoSystemWeight>
 
 
 		<lifeStages>
@@ -1028,8 +1028,8 @@
 					</shadowData>
 				</bodyGraphicData>
 				<dessicatedBodyGraphicData>
-					<texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedMedium</texPath>
-					<drawSize>1.2</drawSize>
+					<texPath>Things/Pawn/Animal/Dinosaur/Reptile/GR_Dessicated_Raptortoise</texPath>
+					<drawSize>1.9</drawSize>
 				</dessicatedBodyGraphicData>
 			</li>
 			<li>
@@ -1042,8 +1042,8 @@
 					</shadowData>
 				</bodyGraphicData>
 				<dessicatedBodyGraphicData>
-					<texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedMedium</texPath>
-					<drawSize>2</drawSize>
+					<texPath>Things/Pawn/Animal/Dinosaur/Reptile/GR_Dessicated_Raptortoise</texPath>
+					<drawSize>2.7</drawSize>
 				</dessicatedBodyGraphicData>
 			</li>
 			<li>
@@ -1056,8 +1056,8 @@
 					</shadowData>
 				</bodyGraphicData>
 				<dessicatedBodyGraphicData>
-					<texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedMedium</texPath>
-					<drawSize>2.8</drawSize>
+					<texPath>Things/Pawn/Animal/Dinosaur/Reptile/GR_Dessicated_Raptortoise</texPath>
+					<drawSize>3.5</drawSize>
 				</dessicatedBodyGraphicData>
 				
 
@@ -1103,7 +1103,7 @@
         <power>45</power>
         <cooldownTime>2.2</cooldownTime>
         <linkedBodyPartsGroup>HeadAttackTool</linkedBodyPartsGroup>
-		<commonality>0.2</commonality>
+		<chanceFactor>0.2</chanceFactor>
       </li>
     </tools>
 		<comps>
@@ -1136,7 +1136,7 @@
       <packAnimal>false</packAnimal>
       <wildness>0.70</wildness>
       <lifeExpectancy>450</lifeExpectancy>
-      <trainableIntelligence>Intermediate</trainableIntelligence>
+      <trainability>Intermediate</trainability>
       <manhunterOnTameFailChance>0.05</manhunterOnTameFailChance>
       <manhunterOnDamageChance>0.25</manhunterOnDamageChance>
 			<useLeatherFrom>Stegosaurus</useLeatherFrom>
@@ -1181,7 +1181,7 @@
 		<race>GR_Stegothrumbo</race>
 		<combatPower>525</combatPower>
 		<canArriveManhunter>false</canArriveManhunter>
-		<wildSpawn_spawnWild>false</wildSpawn_spawnWild>
+		<ecoSystemWeight>1</ecoSystemWeight>
 
 
 		<lifeStages>
@@ -1195,8 +1195,8 @@
 					</shadowData>
 				</bodyGraphicData>
 				<dessicatedBodyGraphicData>
-					<texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedMedium</texPath>
-					<drawSize>2</drawSize>
+					<texPath>Things/Pawn/Animal/Dinosaur/Thrumbo/GR_Dessicated_Stegothrumbo</texPath>
+					<drawSize>3</drawSize>
 				</dessicatedBodyGraphicData>
 			</li>
 			<li>
@@ -1209,8 +1209,8 @@
 					</shadowData>
 				</bodyGraphicData>
 				<dessicatedBodyGraphicData>
-					<texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedMedium</texPath>
-					<drawSize>3.5</drawSize>
+					<texPath>Things/Pawn/Animal/Dinosaur/Thrumbo/GR_Dessicated_Stegothrumbo</texPath>
+					<drawSize>4.5</drawSize>
 				</dessicatedBodyGraphicData>
 			</li>
 			<li>
@@ -1223,8 +1223,8 @@
 					</shadowData>
 				</bodyGraphicData>
 				<dessicatedBodyGraphicData>
-					<texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedMedium</texPath>
-					<drawSize>4</drawSize>
+					<texPath>Things/Pawn/Animal/Dinosaur/Thrumbo/GR_Dessicated_Stegothrumbo</texPath>
+					<drawSize>6</drawSize>
 				</dessicatedBodyGraphicData>
 				 <butcherBodyPart>
           <bodyPartGroup>HeadAttackTool</bodyPartGroup>
@@ -1313,7 +1313,7 @@
       <packAnimal>false</packAnimal>
       <wildness>0.9</wildness>
       <lifeExpectancy>35</lifeExpectancy>
-      <trainableIntelligence>Advanced</trainableIntelligence>
+      <trainability>Advanced</trainability>
       <manhunterOnTameFailChance>0.2</manhunterOnTameFailChance>
       <manhunterOnDamageChance>1</manhunterOnDamageChance>
 			<useLeatherFrom>Velociraptor</useLeatherFrom>
@@ -1355,7 +1355,7 @@
 		<race>GR_Velociwolf</race>
 		<combatPower>450</combatPower>
 		<canArriveManhunter>false</canArriveManhunter>
-		<wildSpawn_spawnWild>false</wildSpawn_spawnWild>
+		<ecoSystemWeight>1</ecoSystemWeight>
 
 
 		<lifeStages>
@@ -1369,8 +1369,8 @@
 					</shadowData>
 				</bodyGraphicData>
 				<dessicatedBodyGraphicData>
-					<texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedMedium</texPath>
-					<drawSize>1.6</drawSize>
+					<texPath>Things/Pawn/Animal/Dinosaur/Wolf/GR_Dessicated_Velociwolf</texPath>
+					<drawSize>1.95</drawSize>
 				</dessicatedBodyGraphicData>
 			</li>
 			<li>
@@ -1383,8 +1383,8 @@
 					</shadowData>
 				</bodyGraphicData>
 				<dessicatedBodyGraphicData>
-					<texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedMedium</texPath>
-					<drawSize>1.8</drawSize>
+					<texPath>Things/Pawn/Animal/Dinosaur/Wolf/GR_Dessicated_Velociwolf</texPath>
+					<drawSize>2.5</drawSize>
 				</dessicatedBodyGraphicData>
 			</li>
 			<li>
@@ -1397,8 +1397,8 @@
 					</shadowData>
 				</bodyGraphicData>
 				<dessicatedBodyGraphicData>
-					<texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedMedium</texPath>
-					<drawSize>2</drawSize>
+					<texPath>Things/Pawn/Animal/Dinosaur/Wolf/GR_Dessicated_Velociwolf</texPath>
+					<drawSize>3</drawSize>
 				</dessicatedBodyGraphicData>
 				 
 

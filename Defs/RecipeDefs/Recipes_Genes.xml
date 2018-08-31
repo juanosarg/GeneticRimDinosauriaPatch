@@ -21,38 +21,38 @@
 				<filter>
 
 					<thingDefs>
-						<li>TyrannosaurusRex_Corpse</li>
-						<li>Yutyrannus_Corpse</li>
-						<li>Carnotaurus_Corpse</li>
-						<li>Allosaurus_Corpse</li>
-						<li>Spinosaurus_Corpse</li>
-						<li>Baryonyx_Corpse</li>
-						<li>Ankylosaurus_Corpse</li>
-						<li>Minmi_Corpse</li>
-						<li>Brachiosaurus_Corpse</li>						
-						<li>Brontosaurus_Corpse</li>
-						<li>Diplodocus_Corpse</li>
-						<li>Magyarosaurus_Corpse</li>
-						<li>Utahraptor_Corpse</li>
-						<li>Dakotaraptor_Corpse</li>
-						<li>Dilophosaurus_Corpse</li>
-						<li>Velociraptor_Corpse</li>
-						<li>Compsognathus_Corpse</li>
-						<li>Gallimimus_Corpse</li>						
-						<li>Gigantoraptor_Corpse</li>
-						<li>Iguanodon_Corpse</li>
-						<li>Parasaur_Corpse</li>
-						<li>Corythosaurus_Corpse</li>
-						<li>Deinocheirus_Corpse</li>
-						<li>Therizinosaurus_Corpse</li>
-						<li>Pachycephalosaurus_Corpse</li>
-						<li>Stygimoloch_Corpse</li>
-						<li>Dryosaurus_Corpse</li>						
-						<li>Stegosaurus_Corpse</li>
-						<li>Triceratops_Corpse</li>
-						<li>Protoceratops_Corpse</li>
-						<li>Quetzalcoatlus_Corpse</li>
-						<li>Pteranodon_Corpse</li>
+						<li>Corpse_TyrannosaurusRex</li>
+						<li>Corpse_Yutyrannus</li>
+						<li>Corpse_Carnotaurus</li>
+						<li>Corpse_Allosaurus</li>
+						<li>Corpse_Spinosaurus</li>
+						<li>Corpse_Baryonyx</li>
+						<li>Corpse_Ankylosaurus</li>
+						<li>Corpse_Minmi</li>
+						<li>Corpse_Brachiosaurus</li>						
+						<li>Corpse_Brontosaurus</li>
+						<li>Corpse_Diplodocus</li>
+						<li>Corpse_Magyarosaurus</li>
+						<li>Corpse_Utahraptor</li>
+						<li>Corpse_Dakotaraptor</li>
+						<li>Corpse_Dilophosaurus</li>
+						<li>Corpse_Velociraptor</li>
+						<li>Corpse_Compsognathus</li>
+						<li>Corpse_Gallimimus</li>						
+						<li>Corpse_Gigantoraptor</li>
+						<li>Corpse_Iguanodon</li>
+						<li>Corpse_Parasaur</li>
+						<li>Corpse_Corythosaurus</li>
+						<li>Corpse_Deinocheirus</li>
+						<li>Corpse_Therizinosaurus</li>
+						<li>Corpse_Pachycephalosaurus</li>
+						<li>Corpse_Stygimoloch</li>
+						<li>Corpse_Dryosaurus</li>						
+						<li>Corpse_Stegosaurus</li>
+						<li>Corpse_Triceratops</li>
+						<li>Corpse_Protoceratops</li>
+						<li>Corpse_Quetzalcoatlus</li>
+						<li>Corpse_Pteranodon</li>
 
 					</thingDefs>
 				</filter>
@@ -62,38 +62,38 @@
 		<fixedIngredientFilter>
 
 			<thingDefs>
-				<li>TyrannosaurusRex_Corpse</li>
-						<li>Yutyrannus_Corpse</li>
-						<li>Carnotaurus_Corpse</li>
-						<li>Allosaurus_Corpse</li>
-						<li>Spinosaurus_Corpse</li>
-						<li>Baryonyx_Corpse</li>
-						<li>Ankylosaurus_Corpse</li>
-						<li>Minmi_Corpse</li>
-						<li>Brachiosaurus_Corpse</li>						
-						<li>Brontosaurus_Corpse</li>
-						<li>Diplodocus_Corpse</li>
-						<li>Magyarosaurus_Corpse</li>
-						<li>Utahraptor_Corpse</li>
-						<li>Dakotaraptor_Corpse</li>
-						<li>Dilophosaurus_Corpse</li>
-						<li>Velociraptor_Corpse</li>
-						<li>Compsognathus_Corpse</li>
-						<li>Gallimimus_Corpse</li>						
-						<li>Gigantoraptor_Corpse</li>
-						<li>Iguanodon_Corpse</li>
-						<li>Parasaur_Corpse</li>
-						<li>Corythosaurus_Corpse</li>
-						<li>Deinocheirus_Corpse</li>
-						<li>Therizinosaurus_Corpse</li>
-						<li>Pachycephalosaurus_Corpse</li>
-						<li>Stygimoloch_Corpse</li>
-						<li>Dryosaurus_Corpse</li>						
-						<li>Stegosaurus_Corpse</li>
-						<li>Triceratops_Corpse</li>
-						<li>Protoceratops_Corpse</li>
-						<li>Quetzalcoatlus_Corpse</li>
-						<li>Pteranodon_Corpse</li>
+				<li>Corpse_TyrannosaurusRex</li>
+						<li>Corpse_Yutyrannus</li>
+						<li>Corpse_Carnotaurus</li>
+						<li>Corpse_Allosaurus</li>
+						<li>Corpse_Spinosaurus</li>
+						<li>Corpse_Baryonyx</li>
+						<li>Corpse_Ankylosaurus</li>
+						<li>Corpse_Minmi</li>
+						<li>Corpse_Brachiosaurus</li>						
+						<li>Corpse_Brontosaurus</li>
+						<li>Corpse_Diplodocus</li>
+						<li>Corpse_Magyarosaurus</li>
+						<li>Corpse_Utahraptor</li>
+						<li>Corpse_Dakotaraptor</li>
+						<li>Corpse_Dilophosaurus</li>
+						<li>Corpse_Velociraptor</li>
+						<li>Corpse_Compsognathus</li>
+						<li>Corpse_Gallimimus</li>						
+						<li>Corpse_Gigantoraptor</li>
+						<li>Corpse_Iguanodon</li>
+						<li>Corpse_Parasaur</li>
+						<li>Corpse_Corythosaurus</li>
+						<li>Corpse_Deinocheirus</li>
+						<li>Corpse_Therizinosaurus</li>
+						<li>Corpse_Pachycephalosaurus</li>
+						<li>Corpse_Stygimoloch</li>
+						<li>Corpse_Dryosaurus</li>						
+						<li>Corpse_Stegosaurus</li>
+						<li>Corpse_Triceratops</li>
+						<li>Corpse_Protoceratops</li>
+						<li>Corpse_Quetzalcoatlus</li>
+						<li>Corpse_Pteranodon</li>
 			</thingDefs>
 		</fixedIngredientFilter>
 		<products>

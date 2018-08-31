@@ -29,7 +29,7 @@
     <size>(2,3)</size>
     <costList>
       <Steel>100</Steel>
-      <Component>4</Component>
+      <ComponentIndustrial>4</ComponentIndustrial>
 	  <GR_FossilChemfuel>50</GR_FossilChemfuel>
     </costList>
     <comps>
@@ -63,7 +63,7 @@
         <explosiveDamageType>Flame</explosiveDamageType>
         <destroyThingOnExplosionSize>2</destroyThingOnExplosionSize>
         <startWickHitPointsPercent>0.333</startWickHitPointsPercent>
-        <preExplosionSpawnThingDef>FilthFuel</preExplosionSpawnThingDef>
+        <preExplosionSpawnThingDef>Filth_Fuel</preExplosionSpawnThingDef>
         <preExplosionSpawnChance>1</preExplosionSpawnChance>
         <wickTicks>
           <min>70</min>

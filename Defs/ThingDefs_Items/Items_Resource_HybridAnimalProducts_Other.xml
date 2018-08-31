@@ -17,11 +17,12 @@
     <statBases>
       <MarketValue>8.0</MarketValue>
       <Mass>0.025</Mass>
+	        <Nutrition>0.075</Nutrition>
+
     </statBases>
     <ingestible>
       <foodType>AnimalProduct</foodType>
       <preferability>MealFine</preferability>
-      <nutrition>0.075</nutrition>
       <joy>0.075</joy>
       <joyKind>Gluttonous</joyKind>
       <ingestEffect>EatVegetarian</ingestEffect>
@@ -85,7 +86,7 @@
 				<explosiveExpandPerStackcount>0.037</explosiveExpandPerStackcount>
 				<startWickOnDamageTaken>Flame</startWickOnDamageTaken>
 				<startWickHitPointsPercent>0.333</startWickHitPointsPercent>
-				<preExplosionSpawnThingDef>FilthFuel</preExplosionSpawnThingDef>
+				<preExplosionSpawnThingDef>Filth_Fuel</preExplosionSpawnThingDef>
 				<preExplosionSpawnChance>1</preExplosionSpawnChance>
 				<wickTicks>
 					<min>70</min>

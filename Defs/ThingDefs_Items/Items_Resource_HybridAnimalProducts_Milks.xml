@@ -17,18 +17,14 @@
 			<MarketValue>3.1</MarketValue>
 			<Mass>0.045</Mass>
 			<MaxHitPoints>60</MaxHitPoints>
+						<Nutrition>0.07</Nutrition>
+
 		</statBases>
 		<tradeability>Sellable</tradeability>
-		<comps>
-			<li Class="CompProperties_FoodPoisoningChance">
-				<humanlikeOnly>true</humanlikeOnly>
-			</li>
-			
-		</comps>
+		
 		<ingestible>
 			<preferability>RawBad</preferability>
 			<foodType>AnimalProduct, Fluid</foodType>
-			<nutrition>0.07</nutrition>
 		</ingestible>
 		<thingCategories>
 			<li>AnimalProductRaw</li>
