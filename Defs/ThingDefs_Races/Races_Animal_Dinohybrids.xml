@@ -127,7 +127,9 @@
 			<soundMeleeHitBuilding>Pawn_Melee_BigBash_HitBuilding</soundMeleeHitBuilding>
 			<soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
 		</race>
-
+		<tradeTags>
+      <li>AnimalExotic</li>
+    </tradeTags>
 	</ThingDef>
 
 	<PawnKindDef ParentName="AnimalKindBase">
@@ -295,7 +297,9 @@
 			<soundMeleeHitBuilding>Pawn_Melee_BigBash_HitBuilding</soundMeleeHitBuilding>
 			<soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
 		</race>
-
+		<tradeTags>
+      <li>AnimalExotic</li>
+    </tradeTags>
 	</ThingDef>
 
 	<PawnKindDef ParentName="AnimalKindBase">
@@ -464,7 +468,9 @@
 			<soundMeleeHitBuilding>Pawn_Melee_BigBash_HitBuilding</soundMeleeHitBuilding>
 			<soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
 		</race>
-
+		<tradeTags>
+      <li>AnimalExotic</li>
+    </tradeTags>
 	</ThingDef>
 
 	<PawnKindDef ParentName="AnimalKindBase">
@@ -651,7 +657,9 @@
 			<soundMeleeHitBuilding>Pawn_Melee_BigBash_HitBuilding</soundMeleeHitBuilding>
 			<soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
 		</race>
-
+		<tradeTags>
+      <li>AnimalExotic</li>
+    </tradeTags>
 	</ThingDef>
 
 	<PawnKindDef ParentName="AnimalKindBase">
@@ -825,7 +833,9 @@
 			<soundMeleeHitBuilding>Pawn_Melee_BigBash_HitBuilding</soundMeleeHitBuilding>
 			<soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
 		</race>
-
+		<tradeTags>
+      <li>AnimalExotic</li>
+    </tradeTags>
 	</ThingDef>
 
 	<PawnKindDef ParentName="AnimalKindBase">
@@ -1002,6 +1012,9 @@
 			<soundMeleeHitBuilding>Pawn_Melee_BigBash_HitBuilding</soundMeleeHitBuilding>
 			<soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
 		</race>
+				<tradeTags>
+      <li>AnimalExotic</li>
+    </tradeTags>
 		<butcherProducts>
 			<GR_TortoiseShell>15</GR_TortoiseShell>
 		</butcherProducts>
@@ -1172,7 +1185,9 @@
 			<soundMeleeHitBuilding>Pawn_Melee_BigBash_HitBuilding</soundMeleeHitBuilding>
 			<soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
 		</race>
-
+		<tradeTags>
+      <li>AnimalExotic</li>
+    </tradeTags>
 	</ThingDef>
 
 	<PawnKindDef ParentName="AnimalKindBase">
@@ -1346,7 +1361,9 @@
 			<soundMeleeHitBuilding>Pawn_Melee_BigBash_HitBuilding</soundMeleeHitBuilding>
 			<soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
 		</race>
-
+		<tradeTags>
+      <li>AnimalExotic</li>
+    </tradeTags>
 	</ThingDef>
 
 	<PawnKindDef ParentName="AnimalKindBase">
