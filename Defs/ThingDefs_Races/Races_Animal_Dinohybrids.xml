@@ -384,7 +384,7 @@
 				</capacities>
 				<power>5</power>
 				<cooldownTime>1</cooldownTime>
-				<linkedBodyPartsGroup>LeftLegClawAttackTool</linkedBodyPartsGroup>
+				<linkedBodyPartsGroup>FootClawAttackTool</linkedBodyPartsGroup>
 			</li>
 			<li>
 				<label>right claw</label>
@@ -394,7 +394,7 @@
 				</capacities>
 				<power>5</power>
 				<cooldownTime>1</cooldownTime>
-				<linkedBodyPartsGroup>RightLegClawAttackTool</linkedBodyPartsGroup>
+				<linkedBodyPartsGroup>FootClawAttackTool</linkedBodyPartsGroup>
 			</li>
 			<li>
 				<label>teeth</label>
@@ -926,7 +926,7 @@
         </capacities>
         <power>14</power>
         <cooldownTime>1.2</cooldownTime>
-        <linkedBodyPartsGroup>LeftLegClawAttackTool</linkedBodyPartsGroup>
+        <linkedBodyPartsGroup>FootClawAttackTool</linkedBodyPartsGroup>
       </li>
       <li>
         <label>right claw</label>
@@ -936,7 +936,7 @@
         </capacities>
         <power>14</power>
         <cooldownTime>1.2</cooldownTime>
-        <linkedBodyPartsGroup>RightLegClawAttackTool</linkedBodyPartsGroup>
+        <linkedBodyPartsGroup>FootClawAttackTool</linkedBodyPartsGroup>
       </li>
       <li>
 		<label>teeth</label>
@@ -1276,7 +1276,7 @@
         </capacities>
         <power>8</power>
         <cooldownTime>1.1</cooldownTime>
-        <linkedBodyPartsGroup>LeftLegClawAttackTool</linkedBodyPartsGroup>
+        <linkedBodyPartsGroup>FootClawAttackTool</linkedBodyPartsGroup>
       </li>
       <li>
         <label>right claw</label>
@@ -1286,7 +1286,7 @@
         </capacities>
         <power>8</power>
         <cooldownTime>1.1</cooldownTime>
-        <linkedBodyPartsGroup>RightLegClawAttackTool</linkedBodyPartsGroup>
+        <linkedBodyPartsGroup>FootClawAttackTool</linkedBodyPartsGroup>
       </li>
       <li>
 		<label>teeth</label>
