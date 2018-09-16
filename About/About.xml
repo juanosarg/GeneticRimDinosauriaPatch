@@ -12,12 +12,14 @@
 - As with all patch mods, be sure to call it after Dinosauria mod and GeneticRim mod, or else you'll get some errors.
 
 &lt;size=24&gt;Compatibility&lt;/size&gt;
+Compatible with A Dog Said
 Should be savegame compatible and not break anything. Should!
 
 &lt;size=24&gt;Credit&lt;/size&gt;
 Credit goes to Spincrus for all his awesome work on Rimworld.
 
 &lt;size=24&gt;Changelog&lt;/size&gt;
+v2.01: Added A Dog Said patch (16/09/18)
 v2.0: B19 update (31/08/18)
 v1.1 Bugfixes. Full changelist on GitHub (03/03/18)
 v1.0: Release (04/01/18)
