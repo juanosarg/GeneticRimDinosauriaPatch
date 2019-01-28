@@ -534,6 +534,8 @@
 	<ThingDef ParentName="AnimalThingBase">
 		<defName>GR_Diplobeetle</defName>
 		<label>diplobeetle</label>
+		<thingClass>NewAnimalSubproducts.AlternateHybridSkins</thingClass>
+
 		<description>This huge sauropod hybrid has notable insectoid traits. It is hard to see how such a creature could have any predators, since it would probably leave its herbivorous diet and just eat them.\n\nUseful abilities: Diplobeetles produce a very nutritive jelly.</description>
 
 
