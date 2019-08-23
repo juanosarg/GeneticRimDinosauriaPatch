@@ -128,7 +128,7 @@
 			<soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
 		</race>
 		<tradeTags>
-      <li>AnimalExotic</li>
+      <li>AnimalGenetic</li>
     </tradeTags>
 	</ThingDef>
 
@@ -298,7 +298,7 @@
 			<soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
 		</race>
 		<tradeTags>
-      <li>AnimalExotic</li>
+      <li>AnimalGenetic</li>
     </tradeTags>
 	</ThingDef>
 
@@ -469,7 +469,7 @@
 			<soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
 		</race>
 		<tradeTags>
-      <li>AnimalExotic</li>
+      <li>AnimalGenetic</li>
     </tradeTags>
 	</ThingDef>
 
@@ -660,7 +660,7 @@
 			<soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
 		</race>
 		<tradeTags>
-      <li>AnimalExotic</li>
+      <li>AnimalGenetic</li>
     </tradeTags>
 	</ThingDef>
 
@@ -836,7 +836,7 @@
 			<soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
 		</race>
 		<tradeTags>
-      <li>AnimalExotic</li>
+      <li>AnimalGenetic</li>
     </tradeTags>
 	</ThingDef>
 
@@ -1015,7 +1015,7 @@
 			<soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
 		</race>
 				<tradeTags>
-      <li>AnimalExotic</li>
+      <li>AnimalGenetic</li>
     </tradeTags>
 		<butcherProducts>
 			<GR_TortoiseShell>15</GR_TortoiseShell>
@@ -1188,7 +1188,7 @@
 			<soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
 		</race>
 		<tradeTags>
-      <li>AnimalExotic</li>
+      <li>AnimalGenetic</li>
     </tradeTags>
 	</ThingDef>
 
@@ -1364,7 +1364,7 @@
 			<soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
 		</race>
 		<tradeTags>
-      <li>AnimalExotic</li>
+      <li>AnimalGenetic</li>
     </tradeTags>
 	</ThingDef>
 
